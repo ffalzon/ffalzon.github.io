@@ -13,4 +13,6 @@ author_profile: true
 ePrint Manuscripts
 ======= 
 
-* Francesca Falzon, Evangelia Anna Markatou, Zachary Espiritu, Roberto Tamassia. (2022). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." [[PDF]](https://eprint.iacr.org/2022/090.pdf )
+* Francesca Falzon, Evangelia Anna Markatou, Zachary Espiritu, Roberto Tamassia. (2022). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." [[PDF]](https://eprint.iacr.org/2022/090.pdf)
+
+* Francesca Falzon, Kenneth G. Paterson. (2022). "An Efficient Query Recovery Attack Against a Graph Encryption Scheme from ASIA CCS 2021." [PDF available on request] 
