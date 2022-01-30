@@ -11,5 +11,7 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+   
+  - title: "Personal"
+    url: /personal/
 
