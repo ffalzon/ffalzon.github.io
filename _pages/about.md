@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a fourth year computer science Ph.D. student at the [University of Chicago](https://computerscience.uchicago.edu/). I am fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at [Brown University](https://cs.brown.edu) with whom I am working on projects relating to encrypted databases, searchable encryption, and database security. My latest works have focused on leakage abuse attacks from the leakage of range queries over multi-attribute data. 
 
-I am also interested in the interplay between privacy technology and the European Union's [GDPR](https://gdpr-info.eu/). I am a part of the [Bridging Privacy Definitions working group](https://privacytools.seas.harvard.edu/bridging-privacy-definitions), where we co-develop computer science and legal definitiions to close the gap between the two fields.
+I am also interested in the interplay between privacy technology and the European Union's [GDPR](https://gdpr-info.eu/). I am a part of the [Bridging Privacy Definitions working group](https://privacytools.seas.harvard.edu/bridging-privacy-definitions), where we co-develop computer science and legal definitions to close the gap between the two fields.
 
 In the summer of 2021, I visited the [Applied Cryptiography](https://appliedcrypto.ethz.ch/) group at ETH Zurich. While there, I worked with [Prof. Kenneth Paterson](https://inf.ethz.ch/people/person-detail.paterson.html) on query recovery attacks on graph encryption schemes. Prior to this, I received my M.A. in Computer Science from UChicago under the guidance of [Prof. David Cash](https://people.cs.uchicago.edu/~davidcash/) and I received my B.A. in mathematics from Rutgers University.
 
