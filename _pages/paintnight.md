@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service"
+title: "ETH Zurich Paint Night"
 permalink: /service/paintnight/
 author_profile: true
 ---
