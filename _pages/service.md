@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### ETH Zurich CS Departmet
-* **October 28, 2021:** *Volunteer*. I helped organize the VMI computer science departmet paint night social. Check out the art work that we made [here](https://ffalzon.github.io/service/paintnight/)!
+* **October 2021:** *Volunteer*. I helped organize the VMI computer science departmet paint night social. Check out the art work that we made [here](https://ffalzon.github.io/service/paintnight/)!
 
 ### University of Chicago CS Departmet
 * **2019-2020:** *Minister of Social Events*. I helped organize a number of events for PhD students and postdocs, including a pizza making class, brunch, and a movie night.
