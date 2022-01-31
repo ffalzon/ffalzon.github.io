@@ -7,6 +7,8 @@ author_profile: true
 
 We saw so much talent at the paint night:
 ![ETH Zurich paint night](/images/paintnight.png)
+<!-- template -->
+{{ /images/paintnight.png:img?width=250 alt='paintnight' }}
 
 And here is my painting of a photograph that I took while on vacation in Puglia:
-![Puglia](/images/puglia.jpg)
+![Puglia](/images/puglia.JPG)
