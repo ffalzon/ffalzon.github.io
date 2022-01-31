@@ -16,4 +16,4 @@ author_profile: true
 * **2016-2017:** *President and Co-founder of the Women in the Mathematical Sciences Club*. I helped organize weekly meetings for the club. I also designed, ordered, and distributed department math t-shirts; the profit from the t-shirts was then used to help fund updates to the undergraduate math lounge.
 
 ### Other
-* Beyond this, I have volunteered for several middle school and high school outreach events aimed at introducing young children to computer security and cryptography. These events include [CompileHer](http://compileher.com/) (April 2019) and [PrincetonSplash](https://princeton.learningu.org/) (April 2018 and April 2017).
+* Beyond this, I have volunteered for several middle school and high school outreach events aimed at introducing children to computer security and cryptography. These events include [CompileHer](http://compileher.com/) (April 2019) and [PrincetonSplash](https://princeton.learningu.org/) (April 2018 and April 2017).
