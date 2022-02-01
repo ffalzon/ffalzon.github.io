@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Evangelia Anna Markatou <sup>*</sup>, **Francesca Falzon** <sup>*</sup>, Roberto Tamassia, William Schor. (2021). "Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions." <i>Proceedings ACM Conf. on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/adr.pdf)
+* Evangelia Anna Markatou <sup> * </sup>, **Francesca Falzon** <sup> * </sup>, Roberto Tamassia, William Schor. (2021). "Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions." <i>Proceedings ACM Conf. on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/adr.pdf)
 
 * **Francesca Falzon** <sup>*</sup>, Evangelia Anna Markatou <sup>*</sup>, Akshima, David Cash, Adam Rivkin, Jesse Stern, Roberto Tamassia. (2020). "Full Database Reconstruction Attack in Two Dimensions." <i>Proceedings ACM Conf. on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/fdr.pdf)
 
