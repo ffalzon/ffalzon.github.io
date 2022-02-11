@@ -13,6 +13,7 @@ author_profile: true
 
 ePrint Manuscripts
 ======= 
+* Emily Wenger, **Francesca Falzon**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao. (2022). "Assessing Privacy Risks from Feature Vector Reconstruction Attacks." [[PDF]](http://ffalzon.github.io/files/reconstruct.pdf)
 
 * **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2022). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." [[PDF]](https://eprint.iacr.org/2022/090.pdf)
 
