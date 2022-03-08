@@ -18,7 +18,7 @@ In the summer of 2021, I visited the [Applied Cryptography](https://appliedcrypt
 Latest News
 ========
 
-* **March 2021:** I willl be attending the 2022 IACR-CROSSING [School on Combinatorial Techniques in Cryptography](https://www.crossing.tu-darmstadt.de/news_events/schools/2022_school/index.en.jsp) held in Valetta, Malta this coming April.
+* **March 2021:** I will be attending the 2022 IACR-CROSSING [School on Combinatorial Techniques in Cryptography](https://www.crossing.tu-darmstadt.de/news_events/schools/2022_school/index.en.jsp) in Valletta, Malta this coming April.
 * **December 2021:** Excited to be returning back to Zurich from June to December 2022, this time as a PhD research intern at [IBM Zurich](https://www.zurich.ibm.com/)!
 * **November 2021:** [Lilika](https://markatou.github.io/) and I jointly presented our work on approximate database reconstruction in 2D at [CCS 2021](https://www.sigsac.org/ccs/CCS2021/).
 * **October 2021:** I will be visiting [Brown University](https://cs.brown.edu) until May 2021. (Go Brown Bears!)
