@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fourth year computer science Ph.D. student at the [University of Chicago](https://computerscience.uchicago.edu/). I am fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at Brown University and by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) at UChicago. I am working on projects relating to encrypted databases, searchable encryption, and database security. My latest works have focused on leakage abuse attacks from the leakage of range queries over multi-attribute data. 
+I'm currently a fourth year computer science Ph.D. student at the [University of Chicago](https://computerscience.uchicago.edu/). I am fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at Brown University and by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) at UChicago. I am working on projects relating to encrypted databases, searchable encryption, and database security; My latest works have focused on leakage abuse attacks from the leakage of range queries over multi-attribute data. 
 
 I am also interested in the interplay between privacy technology and the European Union's [GDPR](https://gdpr-info.eu/). I am a part of the [Bridging Privacy Definitions working group](https://privacytools.seas.harvard.edu/bridging-privacy-definitions), where we co-develop computer science and legal definitions to close the gap between the two fields.
 
@@ -18,6 +18,7 @@ In the summer of 2021, I visited the [Applied Cryptography](https://appliedcrypt
 Latest News
 ========
 
+* **March 2021:** I willl be attending the 2022 IACR-CROSSING [School on Combinatorial Techniques in Cryptography](https://www.crossing.tu-darmstadt.de/news_events/schools/2022_school/index.en.jsp) held in Valetta, Malta this coming April.
 * **December 2021:** Excited to be returning back to Zurich from June to December 2022, this time as a PhD research intern at [IBM Zurich](https://www.zurich.ibm.com/)!
 * **November 2021:** [Lilika](https://markatou.github.io/) and I jointly presented our work on approximate database reconstruction in 2D at [CCS 2021](https://www.sigsac.org/ccs/CCS2021/).
 * **October 2021:** I will be visiting [Brown University](https://cs.brown.edu) until May 2021. (Go Brown Bears!)
