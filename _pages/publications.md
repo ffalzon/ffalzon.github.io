@@ -13,6 +13,8 @@ author_profile: true
 
 ePrint Manuscripts
 ======= 
+* Micah Altman, Aloni Cohen, **Francesca Falzon**, Evangelia Anna Markatou, Kobbi Nissim, Michel Jose Reymond, Sidhant Saraogi, Alexandra Wood. (2022). "A Principled Approach to Defining Anonymization As Applied to EU Data Protection Law." [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4104748)
+
 * Emily Wenger, **Francesca Falzon**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao. (2022). "Assessing Privacy Risks from Feature Vector Reconstruction Attacks." [[PDF]](http://ffalzon.github.io/files/reconstruct.pdf)
 
 * **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2022). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." [[PDF]](https://eprint.iacr.org/2022/090.pdf)
