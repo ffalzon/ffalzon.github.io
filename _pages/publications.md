@@ -6,7 +6,7 @@ author_profile: true
 ---
 <sup> * </sup> indicates equal author contribution; authors are listed alphabetically or reverse alphabetically, respectively. 
 
-* **Francesca Falzon**, Kenneth G. Paterson. (2022). "An Efficient Query Recovery Attack Against a Graph Encryption Scheme." <i>European Symposium on Research in Computer Security (ESORICS)</i>. [[PDF]](https://eprint.iacr.org/2022/838.pdf) (To Appear)
+* **Francesca Falzon**, Kenneth G. Paterson. (2022). "An Efficient Query Recovery Attack Against a Graph Encryption Scheme." <i>European Symposium on Research in Computer Security (ESORICS)</i>. [[PDF]](http://ffalzon.github.io/files/ges_qr.pdf) (To Appear)
 
 * Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Roberto Tamassia, William Schor. (2021). "Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions." <i>Proceedings ACM Conf. on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/adr.pdf)
 
