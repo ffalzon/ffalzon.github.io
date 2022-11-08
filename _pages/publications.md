@@ -6,7 +6,7 @@ author_profile: true
 ---
 <sup> * </sup> indicates equal author contribution; authors are listed alphabetically or reverse alphabetically, respectively. 
 
-* **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023) "Encrypted Range Search in Multiple Dimensions". <i>In Proceedings of the 49th International Conference on Very Large Data Bases (VLDB)</i>. (To Appear) [[PDF]]([http://ffalzon.github.io/files/adr.pdf](https://eprint.iacr.org/2022/1076.pdf))
+* **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023) "Encrypted Range Search in Multiple Dimensions". <i>In Proceedings of the 49th International Conference on Very Large Data Bases (VLDB)</i>. (To Appear) [[PDF]](https://eprint.iacr.org/2022/1076.pdf)
   
 * **Francesca Falzon**, Kenneth G. Paterson. (2022). "An Efficient Query Recovery Attack Against a Graph Encryption Scheme." <i>European Symposium on Research in Computer Security (ESORICS)</i>. [[PDF]](http://ffalzon.github.io/files/ges_qr.pdf) <br><i style="color:red;">Won best student paper award at ESORICS 2022.</i>
 
