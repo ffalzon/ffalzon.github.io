@@ -10,9 +10,9 @@ redirect_from:
 
 **Email:** francesca(underscore)falzon(at)brown(dot)edu
 
-In the summer I will be starting my postdoc in the [Applied Cryptography](https://appliedcrypto.ethz.ch/) group at ETH Zurich under the guidance of [Prof. Kenneth Paterson](https://inf.ethz.ch/people/person-detail.paterson.html).
+In the summer I will be starting my postdoc in the [Applied Cryptography](https://appliedcrypto.ethz.ch/) group at ETH Zurich under the guidance of [Prof. Kenneth Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I am currently working on projects relating to encrypted databases, searchable encryption, and database security, and my latest works have focused on graph encryption schemes.  
 
-I recently obtained my Ph.D. student from the [University of Chicago](https://computerscience.uchicago.edu/). While there, I worked on projects relating to encrypted databases, searchable encryption, and database security, and my latest works have focused on leakage abuse attacks from the leakage of range queries over multi-attribute data.  I was fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at Brown University and by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) at UChicago. 
+I recently obtained my Ph.D. from the [University of Chicago](https://computerscience.uchicago.edu/). I was fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at Brown University and by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) at UChicago. 
 
 I am also interested in the interplay between privacy technology and the European Union's [GDPR](https://gdpr-info.eu/). I was previously a part of the [Bridging Privacy Definitions working group](https://privacytools.seas.harvard.edu/bridging-privacy-definitions), where we co-developed computer science and legal definitions to close the gap between the two fields.
 
