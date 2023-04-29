@@ -23,7 +23,7 @@ Prior to this, I received my M.A. in Computer Science from UChicago under the gu
 Latest News
 ========
 
-* **April 2023:** I successfully defended my thesis and will be joining the Applied Crypto group at ETH Zurich with generous funding form Armasuisse.
+* **April 2023:** I successfully defended my thesis and will be joining the Applied Crypto group at ETH Zurich with generous funding form Armasuisse!
 * **June 2022:** I'm honored to be giving a talk at ETH Zurich's [ZISC Lunch Seminar](https://zisc.ethz.ch/events/zisc-lunch-seminar/) on June 30. The title of the talk is "An Efficient Query Recovery Attack Against a Graph Encryption Scheme."
 * **May 2022:** I'll be attending IEEE S&P in San Francisco -- my first in-person conference!
 * **March 2022:** I will be attending the 2022 IACR-CROSSING [School on Combinatorial Techniques in Cryptography](https://www.crossing.tu-darmstadt.de/news_events/schools/2022_school/index.en.jsp) in Valletta, Malta this coming April.
