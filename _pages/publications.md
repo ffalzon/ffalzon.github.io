@@ -14,9 +14,9 @@ author_profile: true
   
 * **Francesca Falzon**, Kenneth G. Paterson. (2022). "An Efficient Query Recovery Attack Against a Graph Encryption Scheme." <i>European Symposium on Research in Computer Security (ESORICS)</i>. [[PDF]](http://ffalzon.github.io/files/ges_qr.pdf) <br><i style="color:red;">Won best student paper award at ESORICS 2022.</i>
 
-* Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Roberto Tamassia, William Schor. (2021). "Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions." <i>Proceedings ACM Conf. on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/adr.pdf)
+* Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Roberto Tamassia, William Schor. (2021). "Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions." <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/adr.pdf)
 
-* **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Akshima, David Cash, Adam Rivkin, Jesse Stern, Roberto Tamassia. (2020). "Full Database Reconstruction Attack in Two Dimensions." <i>Proceedings ACM Conf. on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/fdr.pdf)
+* **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Akshima, David Cash, Adam Rivkin, Jesse Stern, Roberto Tamassia. (2020). "Full Database Reconstruction Attack in Two Dimensions." <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/fdr.pdf)
 
 
 ePrint Manuscripts
