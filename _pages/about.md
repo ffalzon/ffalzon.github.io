@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Email:** francesca(underscore)falzon(at)brown(dot)edu
+**Email:** ffalzon(at)ethz(dot)ch
 
-In the summer I will be starting my postdoc in the [Applied Cryptography](https://appliedcrypto.ethz.ch/) group at ETH Zurich under the guidance of [Prof. Kenneth Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I am currently working on projects relating to encrypted databases, searchable encryption, and database security, and my latest works have focused on graph encryption schemes.  
+In July 2023 I started my postdoc in the [Applied Cryptography](https://appliedcrypto.ethz.ch/) group at ETH Zurich under the guidance of [Prof. Kenneth Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I am currently working on projects relating to encrypted databases, searchable encryption, and database security, and my latest works have focused on graph encryption schemes. My work is funded by the CYD Distinguished Postdoctoral Fellowship.  
 
 I recently obtained my Ph.D. from the [University of Chicago](https://computerscience.uchicago.edu/). I was fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at Brown University and by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) at UChicago. 
 
