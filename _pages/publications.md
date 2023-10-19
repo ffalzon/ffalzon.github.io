@@ -8,9 +8,9 @@ author_profile: true
 
 * **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro. (2023) Short Privacy-Preserving Proofs of Liabilities. <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/pol.pdf)
 
-* Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." <i>In Proceedings of the 23rd Privacy Enhancing Technologies Symposium (PETS)</i>. (To Appear) [[PDF]](https://eprint.iacr.org/2022/090.pdf)
+* Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." <i>In Proceedings of the 23rd Privacy Enhancing Technologies Symposium (PETS)</i>. [[PDF]](https://eprint.iacr.org/2022/090.pdf)
 
-* **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023) "Encrypted Range Search in Multiple Dimensions". <i>In Proceedings of the 49th International Conference on Very Large Data Bases (VLDB)</i>. (To Appear) [[PDF]](https://eprint.iacr.org/2022/1076.pdf)
+* **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023) "Encrypted Range Search in Multiple Dimensions". <i>In Proceedings of the 49th International Conference on Very Large Data Bases (VLDB)</i>. [[PDF]](https://eprint.iacr.org/2022/1076.pdf)
   
 * **Francesca Falzon**, Kenneth G. Paterson. (2022). "An Efficient Query Recovery Attack Against a Graph Encryption Scheme." <i>European Symposium on Research in Computer Security (ESORICS)</i>. [[PDF]](http://ffalzon.github.io/files/ges_qr.pdf) <br><i style="color:red;">Won best student paper award at ESORICS 2022.</i>
 
