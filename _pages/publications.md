@@ -6,7 +6,7 @@ author_profile: true
 ---
 <sup> * </sup> indicates equal author contribution; authors are listed alphabetically or reverse alphabetically, respectively. 
 
-* **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro. (2023) Short Privacy-Preserving Proofs of Liabilities. <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. (To Appear)
+* **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro. (2023) Short Privacy-Preserving Proofs of Liabilities. <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/pol.pdf)
 
 * Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Zachary Espiritu, Roberto Tamassia. (2023). "Attacks on Encrypted Range Search Schemes in Multiple Dimensions." <i>In Proceedings of the 23rd Privacy Enhancing Technologies Symposium (PETS)</i>. (To Appear) [[PDF]](https://eprint.iacr.org/2022/090.pdf)
 
