@@ -6,7 +6,7 @@ author_profile: true
 ---
 <sup> * </sup> indicates equal author contribution; authors are listed alphabetically or reverse alphabetically, respectively. 
 
-* **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia. (2024) PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries. <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. (To appear)
+* **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia. (2024) PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries. <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. [[Full]](http://ffalzon.github.io/files/ges.pdf)
   
 * **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro. (2023) Short Privacy-Preserving Proofs of Liabilities. <i>In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)</i>. [[PDF]](http://ffalzon.github.io/files/pol.pdf)
 
