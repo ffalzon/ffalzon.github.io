@@ -28,7 +28,7 @@ author_profile: true
   
 5. *An Efficient Query Recovery Attack Against a Graph Encryption Scheme*\
    **Francesca Falzon**, Kenneth G. Paterson\
-   ESORICS 2022 - <i style="color:red;">Won best student paper award at ESORICS 2022.</i>\
+   ESORICS 2022 - <i style="color:red;">Won best student paper</i>\
    [[PDF]](http://ffalzon.github.io/files/ges_qr.pdf)
 
 6. *Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions*\
