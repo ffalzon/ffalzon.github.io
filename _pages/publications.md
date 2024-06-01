@@ -38,7 +38,7 @@ author_profile: true
 
  7. *Full Database Reconstruction Attack in Two Dimensions*\
     **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Akshima, David Cash, Adam Rivkin, Jesse Stern, Roberto Tamassia\
-    ACM CCS 202\
+    ACM CCS 2020\
     [[PDF]](http://ffalzon.github.io/files/fdr.pdf)
 
 
