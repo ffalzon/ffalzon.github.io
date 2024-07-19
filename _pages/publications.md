@@ -9,7 +9,7 @@ author_profile: true
 1. *PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries*\
   **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia.\
   ACM CCS 2024\
-  [[Full]](http://ffalzon.github.io/files/ges.pdf)
+  [[Full]](http://ffalzon.github.io/files/ges.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
   
 2. *Short Privacy-Preserving Proofs of Liabilities*\
    **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro\
