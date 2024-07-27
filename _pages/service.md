@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### ETH Zurich CS Department
+* **September 2023 - Present:** *VMI Board Member*. I am involved with VMI, and organiation dedicated to helping and organizing events for  scientific staff in the Computer Science department at ETH Zürich. Together, the board also acts as a liason between scientific staff and the broader university community.  
+* **September 2023:** *Co-Organizer*. I co-organized the second ever [Swiss Crypto Day](https://swisscryptoday.github.io/2023/). It was a fun day filled with great talks and great people!
 * **October 2021:** *Volunteer*. I helped organize the VMI computer science department paint night social. Check out the art work that we made [here](https://ffalzon.github.io/service/paintnight/)!
 
 ### University of Chicago CS Department
