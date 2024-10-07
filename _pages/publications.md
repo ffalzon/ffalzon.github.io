@@ -9,7 +9,7 @@ author_profile: true
 1. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
    **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>\
    PETS 2025\
-   [PDF on request]
+   [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
    
 3. *PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries*\
   **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia.\
