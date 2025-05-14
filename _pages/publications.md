@@ -55,7 +55,7 @@ author_profile: true
 ePrint Manuscripts
 ======= 
 * *Properties of Effective Information Anonymity Regulations*\
-  Aloni Cohen<sup> * </sup>, Micah Altman, Francesca Falzon, Evangelia Anna Markatou, and Kobbi Nissim\
+  Aloni Cohen, Micah Altman, Francesca Falzon, Evangelia Anna Markatou, and Kobbi Nissim\
   Manuscript 2024\
   [[PDF]](https://arxiv.org/pdf/2408.14740)
   
