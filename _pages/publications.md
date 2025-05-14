@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<sup> * </sup> indicates equal author contribution; authors are listed alphabetically or reverse alphabetically, respectively. 
+<sup> * </sup> indicates first author contribution; authors are listed alphabetically (or reverse alphabetically), respectively. 
 
 1. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
    **Francesca Falzon**<sup> * </sup>, Tianxin Tang<sup>*</sup> \
