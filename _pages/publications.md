@@ -7,12 +7,12 @@ author_profile: true
 <sup> * </sup> indicates first author contribution; authors are listed alphabetically (or reverse alphabetically), respectively. 
 
 1. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
-   **Francesca Falzon**<sup> * </sup>, Tianxin Tang<sup>*</sup> \
+   **Francesca Falzon**, Tianxin Tang\
    USENIX 2025\
    [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://zenodo.org/records/15147738)
 
 2. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
-   **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>\
+   **Francesca Falzon**, Evangelia Anna Markatou\
    PETS 2025\
    [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
    
