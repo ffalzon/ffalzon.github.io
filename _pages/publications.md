@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<sup> * </sup> indicates first author contribution; authors are listed alphabetically (or reverse alphabetically), respectively. 
+<sup> * </sup> indicates first author(s); otherwise, the authors are listed alphabetically. 
 
 1. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
    **Francesca Falzon**, Tianxin Tang\
@@ -55,7 +55,7 @@ author_profile: true
 ePrint Manuscripts
 ======= 
 * *Properties of Effective Information Anonymity Regulations*\
-  Aloni Cohen, Micah Altman, Francesca Falzon, Evangelia Anna Markatou, and Kobbi Nissim\
+  Aloni Cohen<sup> * </sup>, Micah Altman, Francesca Falzon, Evangelia Anna Markatou, and Kobbi Nissim\
   Manuscript 2024\
   [[PDF]](https://arxiv.org/pdf/2408.14740)
   
@@ -65,6 +65,6 @@ ePrint Manuscripts
   [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4104748)
 
 * *Assessing Privacy Risks from Feature Vector Reconstruction Attacks*\
-  Emily Wenger, **Francesca Falzon**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao\
+  Emily Wenger<sup> * </sup>, **Francesca Falzon**, Josephine Passananti, Haitao Zheng, Ben Y. Zhao\
   Manuscript 2022\
   [[PDF]](http://ffalzon.github.io/files/reconstruct.pdf)
