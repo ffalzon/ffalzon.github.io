@@ -6,7 +6,12 @@ author_profile: true
 ---
 <sup> * </sup> indicates equal author contribution; authors are listed alphabetically or reverse alphabetically, respectively. 
 
-1. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
+1. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
+   **Francesca Falzon**<sup> * </sup>, Tianxin Tang<sup>*</sup> \
+   USENIX 2025\
+   [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://zenodo.org/records/15147738)
+
+2. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
    **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>\
    PETS 2025\
    [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
@@ -49,6 +54,12 @@ author_profile: true
 
 ePrint Manuscripts
 ======= 
+* *Properties of Effective Information Anonymity Regulations*
+  Aloni Cohen<sup> * </sup>, Micah Altman, Francesca Falzon, Evangelia Anna Markatou, and Kobbi Nissim\
+  Manuscript 2024\
+  [[PDF]](https://arxiv.org/pdf/2408.14740)
+  
+  
 * *A Principled Approach to Defining Anonymization As Applied to EU Data Protection Law*\
   Micah Altman, Aloni Cohen, **Francesca Falzon**, Evangelia Anna Markatou, Kobbi Nissim, Michel Jose Reymond, Sidhant Saraogi, Alexandra Wood\
   Manuscript 2022\
