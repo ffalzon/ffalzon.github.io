@@ -10,6 +10,8 @@ redirect_from:
 
 **Email:** ffalzon(at)ethz(dot)ch
 
+**Note: I am currently on the job market looking for research positions in the greater Zurich area.**
+
 In July 2023 I started my postdoc in the [Applied Cryptography](https://appliedcrypto.ethz.ch/) group at ETH Zurich under the guidance of [Prof. Kenneth Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I am currently working on projects relating to encrypted databases, authenticated data structures, private information retrieval, and private set intersection. My work is funded by the CYD Distinguished Postdoctoral Fellowship.  
 
 I obtained my Ph.D. from the [University of Chicago](https://computerscience.uchicago.edu/) in 2023. I was fortunate to be advised by [Prof. Roberto Tamassia](https://www.tamassia.net/) at Brown University and by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) at UChicago. 
@@ -18,8 +20,6 @@ I am also interested in the interplay between privacy technology and the Europea
 
 In the summer and fall semester of 2022, I interned in the Blockchain group at IBM Zurich. 
 Prior to this, I received my M.A. in Computer Science from UChicago under the guidance of [Prof. David Cash](https://people.cs.uchicago.edu/~davidcash/) and I received my B.A. in mathematics from Rutgers University.
-
-**I am currently on the job market looking for research positions in the greater Zurich area.**
 
 Latest News
 ========
