@@ -7,7 +7,7 @@ author_profile: true
 <sup> * </sup> indicates first author(s); otherwise, the authors are listed alphabetically. 
 
 1. *SoK: Cryptographic Authenticated Dictionaries*\
-   Harjasleen Malvai*<sup> * </sup>, **Francesca Falzon**, Andrew Zitek-Estrada, Joseph Bonneau\
+   Harjasleen Malvai<sup> * </sup>, **Francesca Falzon**, Andrew Zitek-Estrada, Joseph Bonneau\
    NDSS 2026
 
 2. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
