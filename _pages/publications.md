@@ -8,7 +8,7 @@ author_profile: true
 
 1. *SoK: Cryptographic Authenticated Dictionaries*\
    Harjasleen Malvai, **Francesca Falzon**, Andrew Zitek-Estrada, Joseph Bonneau\
-   NDSS 2026\
+   NDSS 2026
 
 2. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
    **Francesca Falzon**, Laura Hetz, Annamira O'Toole\
