@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Francesca Falzon"
-  avatar           : "IMG_9327.JPG"
+  avatar           : 
   bio              : "Postdoc"
-  location         : "Zürich, Switzerland"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4CB1p5cAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "francesca-f-57058b14a"
+  linkedin         : 
   orcid            : 
   pinterest        : 
   soundcloud       :
