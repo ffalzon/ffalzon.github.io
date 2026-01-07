@@ -13,17 +13,17 @@ author_profile: true
 2. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
    **Francesca Falzon**, Laura Hetz, Annamira O'Toole\
    ACNS 2026\
-   [[Full]](https://eprint.iacr.org/2025/2177.pdf)
+   [[Full]](https://eprint.iacr.org/2025/2177.pdf) [[Code]](https://github.com/laurahetz/TAPIR)
 
 3. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
    **Francesca Falzon**, Tianxin Tang\
    USENIX 2025\
-   [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://zenodo.org/records/15147738)
+   [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://github.com/ffalzon/pjc-analysis)
 
 4. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
    **Francesca Falzon**, Evangelia Anna Markatou\
    PETS 2025\
-   [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
+   [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/markatou/Partial-APSI)
    
 5. *PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries*\
   **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia.\
