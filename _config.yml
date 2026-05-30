@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesca Falzon"
-  avatar           : "/images/photo-of-me.jpg"
+  avatar           : "photo-of-me.jpg"
   bio              : "Postdoc"
   location         : 
   employer         :
