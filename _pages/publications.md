@@ -6,64 +6,66 @@ author_profile: true
 ---
 <sup> * </sup> indicates first author(s)
 
-1. *Beyond the Output: Inference Attacks on Private Set Union and Multi-Key Private Matching*
-   Andrea Raguso, **Francesca Falzon**, Tianxin Tang, Kenneth G. Paterson
+1. *Beyond the Output: Inference Attacks on Private Set Union and Multi-Key Private Matching*\
+   Andrea Raguso, **Francesca Falzon**, Tianxin Tang, Kenneth G. Paterson\
    PETS 2026
 
 2. *Bandwidth Efficient Partial Authorized PSI*\
    Tjitske Koster, **Francesca Falzon**, Evangelia Anna Markatou\
-   Euro S&P 2026 - <i style="color:red;">Won Distinguished Paper Award</i>\
+   Euro S&P 2026 - <i style="color:red;">Won Distinguished Paper Award</i>
+   [[Full]](https://eprint.iacr.org/2025/2132.pdf)
 
 3. *SoK: Cryptographic Authenticated Dictionaries*\
    Harjasleen Malvai, **Francesca Falzon**, Andrew Zitek-Estrada, Joseph Bonneau\
    NDSS 2026
+   [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1465-paper.pdf)
 
-4. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
+5. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
    **Francesca Falzon**, Laura Hetz, Annamira O'Toole\
    ACNS 2026\
    [[Full]](https://eprint.iacr.org/2025/2177.pdf) [[Code]](https://github.com/laurahetz/TAPIR)
 
-5. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
+6. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
    **Francesca Falzon**, Tianxin Tang\
    USENIX 2025\
    [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://github.com/ffalzon/pjc-analysis)
 
-6. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
+7. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
    **Francesca Falzon**, Evangelia Anna Markatou\
    PETS 2025\
    [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/markatou/Partial-APSI)
    
-7. *PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries*\
+8. *PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries*\
   **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia.\
   ACM CCS 2024\
   [[Full]](http://ffalzon.github.io/files/ges.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
   
-8. *Short Privacy-Preserving Proofs of Liabilities*\
+9. *Short Privacy-Preserving Proofs of Liabilities*\
    **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro\
    ACM CCS 2023\
    [[PDF]](http://ffalzon.github.io/files/pol.pdf)
 
-9. *Attacks on Encrypted Range Search Schemes in Multiple Dimensions*\
+10. *Attacks on Encrypted Range Search Schemes in Multiple Dimensions*\
    Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Zachary Espiritu, Roberto Tamassia\
    PETS 2023\
    [[PDF]](https://eprint.iacr.org/2022/090.pdf)
 
-10. *Encrypted Range Search in Multiple Dimensions*\
+11. *Encrypted Range Search in Multiple Dimensions*\
    **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia\
    VLDB 2023\
    [[PDF]](https://eprint.iacr.org/2022/1076.pdf)
   
-11. *An Efficient Query Recovery Attack Against a Graph Encryption Scheme*\
+12. *An Efficient Query Recovery Attack Against a Graph Encryption Scheme*\
    **Francesca Falzon**, Kenneth G. Paterson\
    ESORICS 2022 - <i style="color:red;">Won best student paper</i>\
    [[PDF]](http://ffalzon.github.io/files/ges_qr.pdf) [[Slides]](http://ffalzon.github.io/files/Graph-QR.pdf)
 
-12. *Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions*\
+13. *Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions*\
    Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Roberto Tamassia, William Schor\
    ACM CCS 2021\
    [[PDF]](http://ffalzon.github.io/files/adr.pdf)
 
-13. *Full Database Reconstruction Attack in Two Dimensions*\
+14. *Full Database Reconstruction Attack in Two Dimensions*\
     **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Akshima, David Cash, Adam Rivkin, Jesse Stern, Roberto Tamassia\
     ACM CCS 2020\
     [[PDF]](http://ffalzon.github.io/files/fdr.pdf)
