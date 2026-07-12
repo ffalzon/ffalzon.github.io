@@ -17,43 +17,35 @@ author_profile: true
 
 3. *SoK: Cryptographic Authenticated Dictionaries*\
    Harjasleen Malvai, **Francesca Falzon**, Andrew Zitek-Estrada, Joseph Bonneau\
-   NDSS 2026
-   [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1465-paper.pdf)
+   NDSS 2026 [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1465-paper.pdf)
 
 5. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
    **Francesca Falzon**, Laura Hetz, Annamira O'Toole\
-   ACNS 2026\
-   [[Full]](https://eprint.iacr.org/2025/2177.pdf) [[Code]](https://github.com/laurahetz/TAPIR)
+   ACNS 2026 [[Full]](https://eprint.iacr.org/2025/2177.pdf) [[Code]](https://github.com/laurahetz/TAPIR)
 
 6. *Learning from Functionality Outputs: Private Join and Compute in the Real World*\
    **Francesca Falzon**, Tianxin Tang\
-   USENIX 2025\
-   [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://github.com/ffalzon/pjc-analysis)
+   USENIX 2025 [[Full]](https://eprint.iacr.org/2025/162.pdf) [[Code]](https://github.com/ffalzon/pjc-analysis)
 
 7. *Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols*\
    **Francesca Falzon**, Evangelia Anna Markatou\
-   PETS 2025\
-   [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/markatou/Partial-APSI)
+   PETS 2025 [[Full]](http://ffalzon.github.io/files/apsi.pdf) [[Code]](https://github.com/markatou/Partial-APSI)
    
 8. *PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries*\
   **Francesca Falzon**, Esha Ghosh, Kenneth G. Paterson, Roberto Tamassia.\
-  ACM CCS 2024\
-  [[Full]](http://ffalzon.github.io/files/ges.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
+  ACM CCS 2024 [[Full]](http://ffalzon.github.io/files/ges.pdf) [[Code]](https://github.com/ffalzon/ges-camera)
   
 9. *Short Privacy-Preserving Proofs of Liabilities*\
    **Francesca Falzon**, Kaoutar Elkhiyaoui, Yacov Manevich, Angelo De Caro\
-   ACM CCS 2023\
-   [[PDF]](http://ffalzon.github.io/files/pol.pdf)
+   ACM CCS 2023 [[PDF]](http://ffalzon.github.io/files/pol.pdf)
 
 10. *Attacks on Encrypted Range Search Schemes in Multiple Dimensions*\
    Evangelia Anna Markatou<sup> * </sup>, **Francesca Falzon**<sup> * </sup>, Zachary Espiritu, Roberto Tamassia\
-   PETS 2023\
-   [[PDF]](https://eprint.iacr.org/2022/090.pdf)
+   PETS 2023 [[PDF]](https://eprint.iacr.org/2022/090.pdf)
 
 11. *Encrypted Range Search in Multiple Dimensions*\
    **Francesca Falzon**<sup> * </sup>, Evangelia Anna Markatou<sup> * </sup>, Zachary Espiritu, Roberto Tamassia\
-   VLDB 2023\
-   [[PDF]](https://eprint.iacr.org/2022/1076.pdf)
+   VLDB 2023 [[PDF]](https://eprint.iacr.org/2022/1076.pdf)
   
 12. *An Efficient Query Recovery Attack Against a Graph Encryption Scheme*\
    **Francesca Falzon**, Kenneth G. Paterson\
