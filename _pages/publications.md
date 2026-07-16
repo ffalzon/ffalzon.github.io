@@ -12,7 +12,7 @@ author_profile: true
 
 2. *Bandwidth Efficient Partial Authorized PSI*\
    Tjitske Koster, **Francesca Falzon**, Evangelia Anna Markatou\
-   Euro S&P 2026 [[Full]](https://eprint.iacr.org/2025/2132.pdf)\
+   IEEE EuroS&P 2026 [[Full]](https://eprint.iacr.org/2025/2132.pdf)\
    <i style="color:red;">Won Distinguished Paper Award</i>
 
 3. *SoK: Cryptographic Authenticated Dictionaries*\
