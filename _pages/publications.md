@@ -16,7 +16,7 @@ author_profile: true
    <i style="color:red;">Won Distinguished Paper Award</i>
 
 3. *SoK: Cryptographic Authenticated Dictionaries*\
-   Harjasleen Malvai, **Francesca Falzon**, Andrew Zitek-Estrada, Joseph Bonneau\
+   Harjasleen Malvai, **Francesca Falzon**, Andrew Zitek-Estrada, Sarah Meiklejohn, Joseph Bonneau\
    NDSS 2026 [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1465-paper.pdf)
 
 5. *TAPIR: A Two-Server Authenticated PIR Scheme with Preprocessing*\
